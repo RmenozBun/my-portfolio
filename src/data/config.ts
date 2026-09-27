@@ -12,6 +12,7 @@ export const SITE = {
 // Repos to hide from the Projects section (not real / not relevant projects)
 export const EXCLUDED_REPOS = [
   "RmenozBun", // github profile readme repo
+  "my-portfolio", // this portfolio site's own source code
   "csc350_crud_6601567",
   "cat_ferret",
   "Water_dispenser_backend_system",
